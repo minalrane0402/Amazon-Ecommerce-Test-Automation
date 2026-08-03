@@ -30,7 +30,7 @@ This project implements an automated testing suite for Amazon India workflows us
 (Before running the tests, ensure your system is configured with the required dependencies and build tools)
 1. Install Java 11 or later and Maven.
 2. Clone this repository.
-3. Run `mvn test`.
+3. Run `mvn clean test`.
 4. Complete Amazon login manually when the browser opens.
 
 > This project is for learning and test-automation practice. It is not affiliated with Amazon.
